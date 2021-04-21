@@ -1,0 +1,8 @@
+.idea
+
+*/migrations/*_initial.py
+*/migrations/0*.py
+
+db.sqlite3
+Readme.md
+LICENSE
